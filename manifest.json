@@ -1,0 +1,11 @@
+{
+  "short_name": "理念テスト",
+  "name": "会社理念テストシステム",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0D0D0D",
+  "background_color": "#0D0D0D",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
